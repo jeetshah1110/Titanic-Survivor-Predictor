@@ -19,4 +19,9 @@
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/36303896/92307727-067a8300-efb6-11ea-97ac-05e054b97957.png)
 
+## Results
+
+![Figure_1](https://user-images.githubusercontent.com/36303896/92307947-7d644b80-efb7-11ea-8458-e1d2bd56eb2b.png)
+
+![Figure_2](https://user-images.githubusercontent.com/36303896/92307932-66255e00-efb7-11ea-9e35-5471e22703f6.png)
 
